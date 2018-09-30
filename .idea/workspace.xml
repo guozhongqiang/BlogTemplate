@@ -4,6 +4,294 @@
     <list default="true" id="26899c8d-d217-4932-bb21-a004511371e6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.html" afterPath="$PROJECT_DIR$/about/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/06/index.html" afterPath="$PROJECT_DIR$/archives/2014/06/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/07/index.html" afterPath="$PROJECT_DIR$/archives/2014/07/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/08/index.html" afterPath="$PROJECT_DIR$/archives/2014/08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/09/index.html" afterPath="$PROJECT_DIR$/archives/2014/09/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/10/index.html" afterPath="$PROJECT_DIR$/archives/2014/10/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/11/index.html" afterPath="$PROJECT_DIR$/archives/2014/11/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/12/index.html" afterPath="$PROJECT_DIR$/archives/2014/12/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/index.html" afterPath="$PROJECT_DIR$/archives/2014/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2014/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2014/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/page/4/index.html" afterPath="$PROJECT_DIR$/archives/2014/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/02/index.html" afterPath="$PROJECT_DIR$/archives/2015/02/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/03/index.html" afterPath="$PROJECT_DIR$/archives/2015/03/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/04/index.html" afterPath="$PROJECT_DIR$/archives/2015/04/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/05/index.html" afterPath="$PROJECT_DIR$/archives/2015/05/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/06/index.html" afterPath="$PROJECT_DIR$/archives/2015/06/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/07/index.html" afterPath="$PROJECT_DIR$/archives/2015/07/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/08/index.html" afterPath="$PROJECT_DIR$/archives/2015/08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/09/index.html" afterPath="$PROJECT_DIR$/archives/2015/09/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/index.html" afterPath="$PROJECT_DIR$/archives/2015/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2015/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2015/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/01/index.html" afterPath="$PROJECT_DIR$/archives/2016/01/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/02/index.html" afterPath="$PROJECT_DIR$/archives/2016/02/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/03/index.html" afterPath="$PROJECT_DIR$/archives/2016/03/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/06/index.html" afterPath="$PROJECT_DIR$/archives/2016/06/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/08/index.html" afterPath="$PROJECT_DIR$/archives/2016/08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/index.html" afterPath="$PROJECT_DIR$/archives/2016/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/02/index.html" afterPath="$PROJECT_DIR$/archives/2017/02/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/03/index.html" afterPath="$PROJECT_DIR$/archives/2017/03/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/08/index.html" afterPath="$PROJECT_DIR$/archives/2017/08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/09/index.html" afterPath="$PROJECT_DIR$/archives/2017/09/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/10/index.html" afterPath="$PROJECT_DIR$/archives/2017/10/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/archives/2017/11/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/12/index.html" afterPath="$PROJECT_DIR$/archives/2017/12/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/index.html" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2017/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/02/index.html" afterPath="$PROJECT_DIR$/archives/2018/02/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/04/index.html" afterPath="$PROJECT_DIR$/archives/2018/04/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/08/index.html" afterPath="$PROJECT_DIR$/archives/2018/08/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/index.html" afterPath="$PROJECT_DIR$/archives/2018/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/10/index.html" afterPath="$PROJECT_DIR$/archives/page/10/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/2/index.html" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/3/index.html" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/4/index.html" afterPath="$PROJECT_DIR$/archives/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/5/index.html" afterPath="$PROJECT_DIR$/archives/page/5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/6/index.html" afterPath="$PROJECT_DIR$/archives/page/6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/7/index.html" afterPath="$PROJECT_DIR$/archives/page/7/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/8/index.html" afterPath="$PROJECT_DIR$/archives/page/8/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/9/index.html" afterPath="$PROJECT_DIR$/archives/page/9/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html" afterPath="$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/06/blog/2014/06/15/in-the-rain.html.html" afterPath="$PROJECT_DIR$/blog/2014/06/blog/2014/06/15/in-the-rain.html.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/android-UI-Thread.html" afterPath="$PROJECT_DIR$/blog/2014/07/android-UI-Thread.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/android-networkOnMainThreadException.html" afterPath="$PROJECT_DIR$/blog/2014/07/android-networkOnMainThreadException.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/c-advaced-programming.html" afterPath="$PROJECT_DIR$/blog/2014/07/c-advaced-programming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/markdown-basics.html" afterPath="$PROJECT_DIR$/blog/2014/07/markdown-basics.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/markdown-syntax.html" afterPath="$PROJECT_DIR$/blog/2014/07/markdown-syntax.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/qualified-programmer-should-read-what-books.html" afterPath="$PROJECT_DIR$/blog/2014/07/qualified-programmer-should-read-what-books.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/use-jekyll-build-blog-on-github.html" afterPath="$PROJECT_DIR$/blog/2014/07/use-jekyll-build-blog-on-github.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/78-golden-rules-of-the-java-programming.html" afterPath="$PROJECT_DIR$/blog/2014/08/78-golden-rules-of-the-java-programming.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/java-multithread.html" afterPath="$PROJECT_DIR$/blog/2014/08/java-multithread.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/libevent.html" afterPath="$PROJECT_DIR$/blog/2014/08/libevent.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/linux-epoll.html" afterPath="$PROJECT_DIR$/blog/2014/08/linux-epoll.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/why-jdk-string-is-final.html" afterPath="$PROJECT_DIR$/blog/2014/08/why-jdk-string-is-final.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/09/returning-null.html" afterPath="$PROJECT_DIR$/blog/2014/09/returning-null.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/android-opensource.html" afterPath="$PROJECT_DIR$/blog/2014/10/android-opensource.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/androidDP-introduction.html" afterPath="$PROJECT_DIR$/blog/2014/10/androidDP-introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/androidDP-project.html" afterPath="$PROJECT_DIR$/blog/2014/10/androidDP-project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/how to use smack.html" afterPath="$PROJECT_DIR$/blog/2014/10/how to use smack.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/how-http-works.html" afterPath="$PROJECT_DIR$/blog/2014/10/how-http-works.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/jsp-jfreechart.html" afterPath="$PROJECT_DIR$/blog/2014/10/jsp-jfreechart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/xmpp-analise.html" afterPath="$PROJECT_DIR$/blog/2014/10/xmpp-analise.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/xmpp.html" afterPath="$PROJECT_DIR$/blog/2014/10/xmpp.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/android-push.html" afterPath="$PROJECT_DIR$/blog/2014/11/android-push.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/graph.html" afterPath="$PROJECT_DIR$/blog/2014/11/graph.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/how-to-evaluate-the-hackers-and-painters.html" afterPath="$PROJECT_DIR$/blog/2014/11/how-to-evaluate-the-hackers-and-painters.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/java-concurrent-collections.html" afterPath="$PROJECT_DIR$/blog/2014/11/java-concurrent-collections.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/java-inner-class.html" afterPath="$PROJECT_DIR$/blog/2014/11/java-inner-class.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/java-nio.html" afterPath="$PROJECT_DIR$/blog/2014/11/java-nio.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/leveldb.html" afterPath="$PROJECT_DIR$/blog/2014/11/leveldb.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/web-server.html" afterPath="$PROJECT_DIR$/blog/2014/11/web-server.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/c-code-opt.html" afterPath="$PROJECT_DIR$/blog/2014/12/c-code-opt.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/c-open-project.html" afterPath="$PROJECT_DIR$/blog/2014/12/c-open-project.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/improve-webServer-performance.html" afterPath="$PROJECT_DIR$/blog/2014/12/improve-webServer-performance.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/skip-list.html" afterPath="$PROJECT_DIR$/blog/2014/12/skip-list.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/02/cache.html" afterPath="$PROJECT_DIR$/blog/2015/02/cache.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/android-studio-prefrence.html" afterPath="$PROJECT_DIR$/blog/2015/03/android-studio-prefrence.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/github-pages-blog.html" afterPath="$PROJECT_DIR$/blog/2015/03/github-pages-blog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/install-texlive-in-ubuntu.html" afterPath="$PROJECT_DIR$/blog/2015/03/install-texlive-in-ubuntu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/vim-plugins.html" afterPath="$PROJECT_DIR$/blog/2015/03/vim-plugins.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/android-tips.html" afterPath="$PROJECT_DIR$/blog/2015/04/android-tips.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/gradle-task-management.html" afterPath="$PROJECT_DIR$/blog/2015/04/gradle-task-management.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/java-code-opt-one.html" afterPath="$PROJECT_DIR$/blog/2015/04/java-code-opt-one.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/java-virtual-mechine.html" afterPath="$PROJECT_DIR$/blog/2015/04/java-virtual-mechine.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/web-transmission-basis.html" afterPath="$PROJECT_DIR$/blog/2015/04/web-transmission-basis.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/05/android-links.html" afterPath="$PROJECT_DIR$/blog/2015/05/android-links.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/05/define-custom-view.html" afterPath="$PROJECT_DIR$/blog/2015/05/define-custom-view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/05/gradle-dependency-management.html" afterPath="$PROJECT_DIR$/blog/2015/05/gradle-dependency-management.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/06/java-lambda-expression.html" afterPath="$PROJECT_DIR$/blog/2015/06/java-lambda-expression.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/07/gradle-tasks-guide.html" afterPath="$PROJECT_DIR$/blog/2015/07/gradle-tasks-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/07/hibernate-cache-guide.html" afterPath="$PROJECT_DIR$/blog/2015/07/hibernate-cache-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/dagger-dependency-injection.html" afterPath="$PROJECT_DIR$/blog/2015/08/dagger-dependency-injection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/latex-fonts-settings.html" afterPath="$PROJECT_DIR$/blog/2015/08/latex-fonts-settings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/linux-zsh.html" afterPath="$PROJECT_DIR$/blog/2015/08/linux-zsh.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/volley-source-code.html" afterPath="$PROJECT_DIR$/blog/2015/08/volley-source-code.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/09/android-studio-plugins.html" afterPath="$PROJECT_DIR$/blog/2015/09/android-studio-plugins.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/01/apache-configuration-in-ubuntu.html" afterPath="$PROJECT_DIR$/blog/2016/01/apache-configuration-in-ubuntu.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/01/tmux-guide.html" afterPath="$PROJECT_DIR$/blog/2016/01/tmux-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/02/baidu-spider-forbidden.html" afterPath="$PROJECT_DIR$/blog/2016/02/baidu-spider-forbidden.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/02/git-guide.html" afterPath="$PROJECT_DIR$/blog/2016/02/git-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/02/jekyll-to-hexo.html" afterPath="$PROJECT_DIR$/blog/2016/02/jekyll-to-hexo.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/03/android-apk-classy.html" afterPath="$PROJECT_DIR$/blog/2016/03/android-apk-classy.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/03/android-apk-signing.html" afterPath="$PROJECT_DIR$/blog/2016/03/android-apk-signing.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/06/Jacoco-coverage.html" afterPath="$PROJECT_DIR$/blog/2016/06/Jacoco-coverage.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/06/java-nio-concept.html" afterPath="$PROJECT_DIR$/blog/2016/06/java-nio-concept.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/08/maven-lifecycle-introduction.html" afterPath="$PROJECT_DIR$/blog/2016/08/maven-lifecycle-introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/hexo-search.html" afterPath="$PROJECT_DIR$/blog/2017/02/hexo-search.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/mybatis-intorduction.html" afterPath="$PROJECT_DIR$/blog/2017/02/mybatis-intorduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/sed-introduction.html" afterPath="$PROJECT_DIR$/blog/2017/02/sed-introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/ss-proxy-guide.html" afterPath="$PROJECT_DIR$/blog/2017/02/ss-proxy-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/03/elasticsearch-java-client.html" afterPath="$PROJECT_DIR$/blog/2017/03/elasticsearch-java-client.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/08/mybatis-cache.html" afterPath="$PROJECT_DIR$/blog/2017/08/mybatis-cache.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/08/powermock-introduction.html" afterPath="$PROJECT_DIR$/blog/2017/08/powermock-introduction.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/09/mybatis-multidatasource.html" afterPath="$PROJECT_DIR$/blog/2017/09/mybatis-multidatasource.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/10/spring-transation-sourcecode.html" afterPath="$PROJECT_DIR$/blog/2017/10/spring-transation-sourcecode.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/10/why-not-expliclitgc.html" afterPath="$PROJECT_DIR$/blog/2017/10/why-not-expliclitgc.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/11/java-classloader-constraint.html" afterPath="$PROJECT_DIR$/blog/2017/11/java-classloader-constraint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/11/java-weak-reference.html" afterPath="$PROJECT_DIR$/blog/2017/11/java-weak-reference.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/12/btrace-guide.html" afterPath="$PROJECT_DIR$/blog/2017/12/btrace-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/12/java-memory-leak-example.html" afterPath="$PROJECT_DIR$/blog/2017/12/java-memory-leak-example.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/12/threadlocal.html" afterPath="$PROJECT_DIR$/blog/2017/12/threadlocal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/btrace-introduce.html" afterPath="$PROJECT_DIR$/blog/2018/01/btrace-introduce.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/gatling.html" afterPath="$PROJECT_DIR$/blog/2018/01/gatling.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/jmh-test-guide.html" afterPath="$PROJECT_DIR$/blog/2018/01/jmh-test-guide.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/jvm-card-table-turning.html" afterPath="$PROJECT_DIR$/blog/2018/01/jvm-card-table-turning.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/linux-high-load.html" afterPath="$PROJECT_DIR$/blog/2018/01/linux-high-load.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/linux-perf-turning.html" afterPath="$PROJECT_DIR$/blog/2018/01/linux-perf-turning.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/next-chat.html" afterPath="$PROJECT_DIR$/blog/2018/01/next-chat.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/safepoint.html" afterPath="$PROJECT_DIR$/blog/2018/01/safepoint.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/slf4j-log4j2.html" afterPath="$PROJECT_DIR$/blog/2018/01/slf4j-log4j2.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/understand-gc-log.html" afterPath="$PROJECT_DIR$/blog/2018/01/understand-gc-log.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/02/the-missing-stacktrace.html" afterPath="$PROJECT_DIR$/blog/2018/02/the-missing-stacktrace.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/04/elasticsearch-translog.html" afterPath="$PROJECT_DIR$/blog/2018/04/elasticsearch-translog.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/04/final-reference.html" afterPath="$PROJECT_DIR$/blog/2018/04/final-reference.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/04/mysql-settings.html" afterPath="$PROJECT_DIR$/blog/2018/04/mysql-settings.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/08/filterchain-sql-monitor.html" afterPath="$PROJECT_DIR$/blog/2018/08/filterchain-sql-monitor.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/08/mysql-tips.html" afterPath="$PROJECT_DIR$/blog/2018/08/mysql-tips.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/books/index.html" afterPath="$PROJECT_DIR$/books/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/index.html" afterPath="$PROJECT_DIR$/categories/Android/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Database/index.html" afterPath="$PROJECT_DIR$/categories/Database/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Git/index.html" afterPath="$PROJECT_DIR$/categories/Git/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Gradle/index.html" afterPath="$PROJECT_DIR$/categories/Gradle/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/JVM/index.html" afterPath="$PROJECT_DIR$/categories/JVM/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Latex/index.html" afterPath="$PROJECT_DIR$/categories/Latex/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Linux/index.html" afterPath="$PROJECT_DIR$/categories/Linux/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/MySQL/index.html" afterPath="$PROJECT_DIR$/categories/MySQL/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Unix-Linux/index.html" afterPath="$PROJECT_DIR$/categories/Unix-Linux/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/algorithm/index.html" afterPath="$PROJECT_DIR$/categories/algorithm/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/book/index.html" afterPath="$PROJECT_DIR$/categories/book/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/c-c/index.html" afterPath="$PROJECT_DIR$/categories/c-c/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/c/index.html" afterPath="$PROJECT_DIR$/categories/c/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/c/programming/index.html" afterPath="$PROJECT_DIR$/categories/c/programming/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/google/index.html" afterPath="$PROJECT_DIR$/categories/google/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/hexo/index.html" afterPath="$PROJECT_DIR$/categories/hexo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/index.html" afterPath="$PROJECT_DIR$/categories/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/android/index.html" afterPath="$PROJECT_DIR$/categories/java/android/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/index.html" afterPath="$PROJECT_DIR$/categories/java/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/lambda/index.html" afterPath="$PROJECT_DIR$/categories/java/lambda/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/page/2/index.html" afterPath="$PROJECT_DIR$/categories/java/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/page/3/index.html" afterPath="$PROJECT_DIR$/categories/java/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/reprints/index.html" afterPath="$PROJECT_DIR$/categories/java/reprints/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/jekyll/index.html" afterPath="$PROJECT_DIR$/categories/jekyll/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/jekyll/reprints/index.html" afterPath="$PROJECT_DIR$/categories/jekyll/reprints/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/other/index.html" afterPath="$PROJECT_DIR$/categories/other/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/other/programming/index.html" afterPath="$PROJECT_DIR$/categories/other/programming/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/other/programming/reprints/index.html" afterPath="$PROJECT_DIR$/categories/other/programming/reprints/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/web/index.html" afterPath="$PROJECT_DIR$/categories/web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/10/index.html" afterPath="$PROJECT_DIR$/page/10/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/2/index.html" afterPath="$PROJECT_DIR$/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/3/index.html" afterPath="$PROJECT_DIR$/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/4/index.html" afterPath="$PROJECT_DIR$/page/4/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/5/index.html" afterPath="$PROJECT_DIR$/page/5/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/6/index.html" afterPath="$PROJECT_DIR$/page/6/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/7/index.html" afterPath="$PROJECT_DIR$/page/7/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/8/index.html" afterPath="$PROJECT_DIR$/page/8/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/9/index.html" afterPath="$PROJECT_DIR$/page/9/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/APK/index.html" afterPath="$PROJECT_DIR$/tags/APK/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Chat/index.html" afterPath="$PROJECT_DIR$/tags/Chat/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/ClassLoader/index.html" afterPath="$PROJECT_DIR$/tags/ClassLoader/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Dao/index.html" afterPath="$PROJECT_DIR$/tags/Dao/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/DataBase/index.html" afterPath="$PROJECT_DIR$/tags/DataBase/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Elasticsearch/index.html" afterPath="$PROJECT_DIR$/tags/Elasticsearch/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/FilterChain/index.html" afterPath="$PROJECT_DIR$/tags/FilterChain/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Gatling/index.html" afterPath="$PROJECT_DIR$/tags/Gatling/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Git/index.html" afterPath="$PROJECT_DIR$/tags/Git/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Gradle/index.html" afterPath="$PROJECT_DIR$/tags/Gradle/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/IO/index.html" afterPath="$PROJECT_DIR$/tags/IO/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Instrumention/index.html" afterPath="$PROJECT_DIR$/tags/Instrumention/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/JMH/index.html" afterPath="$PROJECT_DIR$/tags/JMH/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Junit/index.html" afterPath="$PROJECT_DIR$/tags/Junit/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Jvm/index.html" afterPath="$PROJECT_DIR$/tags/Jvm/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Latex/index.html" afterPath="$PROJECT_DIR$/tags/Latex/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Life/index.html" afterPath="$PROJECT_DIR$/tags/Life/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Logger/index.html" afterPath="$PROJECT_DIR$/tags/Logger/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Mock/index.html" afterPath="$PROJECT_DIR$/tags/Mock/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/MyBatis/index.html" afterPath="$PROJECT_DIR$/tags/MyBatis/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/MySQL/index.html" afterPath="$PROJECT_DIR$/tags/MySQL/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/NIO/index.html" afterPath="$PROJECT_DIR$/tags/NIO/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/ORM/index.html" afterPath="$PROJECT_DIR$/tags/ORM/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/OpenSource/index.html" afterPath="$PROJECT_DIR$/tags/OpenSource/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/PowerMock/index.html" afterPath="$PROJECT_DIR$/tags/PowerMock/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/SED/index.html" afterPath="$PROJECT_DIR$/tags/SED/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Spring/index.html" afterPath="$PROJECT_DIR$/tags/Spring/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Transaction/index.html" afterPath="$PROJECT_DIR$/tags/Transaction/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/VCS/index.html" afterPath="$PROJECT_DIR$/tags/VCS/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Vim/index.html" afterPath="$PROJECT_DIR$/tags/Vim/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/WeakReference/index.html" afterPath="$PROJECT_DIR$/tags/WeakReference/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/algorithm/index.html" afterPath="$PROJECT_DIR$/tags/algorithm/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/android-tips/index.html" afterPath="$PROJECT_DIR$/tags/android-tips/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/android-view/index.html" afterPath="$PROJECT_DIR$/tags/android-view/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/android/index.html" afterPath="$PROJECT_DIR$/tags/android/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/blog/index.html" afterPath="$PROJECT_DIR$/tags/blog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/book/index.html" afterPath="$PROJECT_DIR$/tags/book/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/c/index.html" afterPath="$PROJECT_DIR$/tags/c/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/cache/index.html" afterPath="$PROJECT_DIR$/tags/cache/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/concurrent/index.html" afterPath="$PROJECT_DIR$/tags/concurrent/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/dns/index.html" afterPath="$PROJECT_DIR$/tags/dns/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/final/index.html" afterPath="$PROJECT_DIR$/tags/final/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/github/index.html" afterPath="$PROJECT_DIR$/tags/github/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/google/index.html" afterPath="$PROJECT_DIR$/tags/google/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/hexo/index.html" afterPath="$PROJECT_DIR$/tags/hexo/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/hibernate/index.html" afterPath="$PROJECT_DIR$/tags/hibernate/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/hosts/index.html" afterPath="$PROJECT_DIR$/tags/hosts/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/http/index.html" afterPath="$PROJECT_DIR$/tags/http/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/index.html" afterPath="$PROJECT_DIR$/tags/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/jabber/index.html" afterPath="$PROJECT_DIR$/tags/jabber/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java-gradle/index.html" afterPath="$PROJECT_DIR$/tags/java-gradle/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java/index.html" afterPath="$PROJECT_DIR$/tags/java/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java/page/2/index.html" afterPath="$PROJECT_DIR$/tags/java/page/2/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java/page/3/index.html" afterPath="$PROJECT_DIR$/tags/java/page/3/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/javas/index.html" afterPath="$PROJECT_DIR$/tags/javas/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/jekyll/index.html" afterPath="$PROJECT_DIR$/tags/jekyll/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/jsp，servlet，html，jfreechart/index.html" afterPath="$PROJECT_DIR$/tags/jsp，servlet，html，jfreechart/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/lifecycle/index.html" afterPath="$PROJECT_DIR$/tags/lifecycle/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/linux/index.html" afterPath="$PROJECT_DIR$/tags/linux/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/markdown/index.html" afterPath="$PROJECT_DIR$/tags/markdown/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/maven/index.html" afterPath="$PROJECT_DIR$/tags/maven/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/network-异步-Volley-android/index.html" afterPath="$PROJECT_DIR$/tags/network-异步-Volley-android/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/openfire/index.html" afterPath="$PROJECT_DIR$/tags/openfire/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/plugins/index.html" afterPath="$PROJECT_DIR$/tags/plugins/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/programming/index.html" afterPath="$PROJECT_DIR$/tags/programming/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/shell/index.html" afterPath="$PROJECT_DIR$/tags/shell/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/studio/index.html" afterPath="$PROJECT_DIR$/tags/studio/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/translog/index.html" afterPath="$PROJECT_DIR$/tags/translog/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/web/index.html" afterPath="$PROJECT_DIR$/tags/web/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/xmpp/index.html" afterPath="$PROJECT_DIR$/tags/xmpp/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/书籍/index.html" afterPath="$PROJECT_DIR$/tags/书籍/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/单元测试/index.html" afterPath="$PROJECT_DIR$/tags/单元测试/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/反编译/index.html" afterPath="$PROJECT_DIR$/tags/反编译/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/复用/index.html" afterPath="$PROJECT_DIR$/tags/复用/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/多线程/index.html" afterPath="$PROJECT_DIR$/tags/多线程/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/学习/index.html" afterPath="$PROJECT_DIR$/tags/学习/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/并发，-服务器/index.html" afterPath="$PROJECT_DIR$/tags/并发，-服务器/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/开源/index.html" afterPath="$PROJECT_DIR$/tags/开源/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/性能/index.html" afterPath="$PROJECT_DIR$/tags/性能/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/技巧/index.html" afterPath="$PROJECT_DIR$/tags/技巧/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/接口/index.html" afterPath="$PROJECT_DIR$/tags/接口/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/数据库/index.html" afterPath="$PROJECT_DIR$/tags/数据库/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/服务器/index.html" afterPath="$PROJECT_DIR$/tags/服务器/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/框架/index.html" afterPath="$PROJECT_DIR$/tags/框架/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/消息推送/index.html" afterPath="$PROJECT_DIR$/tags/消息推送/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/消息推送，-server，-client/index.html" afterPath="$PROJECT_DIR$/tags/消息推送，-server，-client/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/生活/index.html" afterPath="$PROJECT_DIR$/tags/生活/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/程序/index.html" afterPath="$PROJECT_DIR$/tags/程序/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/签名/index.html" afterPath="$PROJECT_DIR$/tags/签名/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/继承/index.html" afterPath="$PROJECT_DIR$/tags/继承/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/编程/index.html" afterPath="$PROJECT_DIR$/tags/编程/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/编程语言/index.html" afterPath="$PROJECT_DIR$/tags/编程语言/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/网络传输/index.html" afterPath="$PROJECT_DIR$/tags/网络传输/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/虚拟机/index.html" afterPath="$PROJECT_DIR$/tags/虚拟机/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/覆盖率/index.html" afterPath="$PROJECT_DIR$/tags/覆盖率/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/逆向/index.html" afterPath="$PROJECT_DIR$/tags/逆向/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/阻塞/index.html" afterPath="$PROJECT_DIR$/tags/阻塞/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/项目构建/index.html" afterPath="$PROJECT_DIR$/tags/项目构建/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,73 +307,60 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+        <entry file="file://$PROJECT_DIR$/page/2/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-38396">
-              <caret line="693" column="22" lean-forward="false" selection-start-line="693" selection-start-column="22" selection-end-line="693" selection-end-column="22" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#0;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#1;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#2;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#3;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#4;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#5;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#6;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#7;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#8;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#9;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="robots.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/robots.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="9" lean-forward="false" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+            <state relative-caret-position="-10582">
+              <caret line="455" column="30" lean-forward="false" selection-start-line="455" selection-start-column="18" selection-end-line="455" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tags/index.html">
+        <entry file="file://$PROJECT_DIR$/tags/algorithm/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
+            <state relative-caret-position="-12672">
+              <caret line="444" column="36" lean-forward="false" selection-start-line="444" selection-start-column="36" selection-end-line="444" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tags/Git/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8405">
               <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="in-the-rain.html.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/2014/06/blog/2014/06/15/in-the-rain.html.html">
+      <file leaf-file-name="404.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/404.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="210" column="7" lean-forward="false" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
+            <state relative-caret-position="286">
+              <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="filterchain-sql-monitor.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/2018/08/filterchain-sql-monitor.html">
+      <file leaf-file-name="google41eca6f1588fb155.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/google41eca6f1588fb155.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="894" column="65" lean-forward="false" selection-start-line="894" selection-start-column="23" selection-end-line="894" selection-end-column="65" />
-              <folding>
-                <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/about/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="369">
-              <caret line="364" column="8" lean-forward="true" selection-start-line="364" selection-start-column="8" selection-end-line="364" selection-end-column="8" />
+            <state relative-caret-position="22">
+              <caret line="693" column="22" lean-forward="false" selection-start-line="693" selection-start-column="22" selection-end-line="693" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -101,36 +376,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="android-tips.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/2015/04/android-tips.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/archives/2015/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="704" column="0" lean-forward="false" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="308">
+              <caret line="103" column="66" lean-forward="false" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="66" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="26-methods-to-improve-java-performance.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="545">
-              <caret line="719" column="0" lean-forward="false" selection-start-line="719" selection-start-column="0" selection-end-line="719" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="501">
+              <caret line="499" column="10" lean-forward="true" selection-start-line="499" selection-start-column="10" selection-end-line="499" selection-end-column="10" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="love.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/src/love.js">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/archives/2017/02/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="0" column="1551" lean-forward="true" selection-start-line="0" selection-start-column="1551" selection-end-line="0" selection-end-column="1551" />
+            <state relative-caret-position="137">
+              <caret line="617" column="28" lean-forward="false" selection-start-line="617" selection-start-column="28" selection-end-line="617" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -150,6 +420,11 @@
       <find>itemprop=&quot;copyrightHolder&quot;&gt;EZLippi&lt;/span&gt;</find>
       <find>欢迎在这里联系我</find>
       <find>关于本站</find>
+      <find>Filter定义</find>
+      <find>initDataSource</find>
+      <find>算法</find>
+      <find>favicon.ico</find>
+      <find>avatar.gif</find>
     </findStrings>
     <replaceStrings>
       <replace>宝剑锋从磨砺出,梅花香自苦寒来</replace>
@@ -158,6 +433,8 @@
       <replace>title=&quot;欢迎访问 Learning 的个人博客&quot;&gt;Learning&lt;/a&gt;</replace>
       <replace>本文由 Learning 原创</replace>
       <replace>itemprop=&quot;copyrightHolder&quot;&gt;Learning&lt;/span&gt;</replace>
+      <replace>Learning.emf</replace>
+      <replace>Learning.png</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -184,6 +461,7 @@
         <option value="$PROJECT_DIR$/README.html" />
         <option value="$PROJECT_DIR$/blog/2015/04/android-tips.html" />
         <option value="$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/about/index.html" />
       </list>
     </option>
@@ -226,6 +504,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="guozhongqiang.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guozhongqiang.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="guozhongqiang.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="books" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -502,7 +794,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538298175894</updated>
-      <workItem from="1538298178050" duration="3359000" />
+      <workItem from="1538298178050" duration="5460000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1538299641858</created>
@@ -532,11 +824,25 @@
       <option name="project" value="LOCAL" />
       <updated>1538301953845</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="change">
+      <created>1538302269882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1538302269882</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change">
+      <created>1538302915451</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1538302915451</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3359000" />
+    <option name="totallyTimeSpent" value="5460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
@@ -634,37 +940,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/404.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="115" lean-forward="false" selection-start-line="10" selection-start-column="115" selection-end-line="10" selection-end-column="115" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="110">
-            <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/archives/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="302" column="31" lean-forward="false" selection-start-line="302" selection-start-column="31" selection-end-line="302" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/books/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="436" column="13" lean-forward="false" selection-start-line="436" selection-start-column="13" selection-end-line="436" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -701,30 +980,174 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-38396">
-          <caret line="693" column="22" lean-forward="false" selection-start-line="693" selection-start-column="22" selection-end-line="693" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#0;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#1;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#2;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#3;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#4;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#5;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#6;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#7;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#8;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#span#0;n#span#1;n#article#9;n#section#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/blog/2014/06/blog/2014/06/15/in-the-rain.html.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
           <caret line="210" column="7" lean-forward="false" selection-start-line="210" selection-start-column="7" selection-end-line="210" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/2015/04/android-tips.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="704" column="0" lean-forward="false" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="545">
+          <caret line="719" column="0" lean-forward="false" selection-start-line="719" selection-start-column="0" selection-end-line="719" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/2018/08/filterchain-sql-monitor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1265">
+          <caret line="589" column="9" lean-forward="true" selection-start-line="589" selection-start-column="9" selection-end-line="589" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/2015/04/gradle-task-management.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/books/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="436" column="13" lean-forward="false" selection-start-line="436" selection-start-column="13" selection-end-line="436" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/2014/11/graph.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories/algorithm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="461" column="64" lean-forward="true" selection-start-line="461" selection-start-column="64" selection-end-line="461" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/categories/Android/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="433" column="65" lean-forward="false" selection-start-line="433" selection-start-column="65" selection-end-line="433" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/2015/05/android-links.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1848">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/algolia-instant-search/instantsearch.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#342#3381#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-10582">
+          <caret line="455" column="30" lean-forward="false" selection-start-line="455" selection-start-column="18" selection-end-line="455" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/algorithm/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12672">
+          <caret line="444" column="36" lean-forward="false" selection-start-line="444" selection-start-column="36" selection-end-line="444" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tags/Git/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8405">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="7" lean-forward="true" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/google41eca6f1588fb155.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="693" column="22" lean-forward="false" selection-start-line="693" selection-start-column="22" selection-end-line="693" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="220">
+            <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
@@ -736,41 +1159,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/2015/04/android-tips.html">
+    <entry file="file://$PROJECT_DIR$/archives/2015/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="704" column="0" lean-forward="false" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="308">
+          <caret line="103" column="66" lean-forward="false" selection-start-line="103" selection-start-column="55" selection-end-line="103" selection-end-column="66" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html">
+    <entry file="file://$PROJECT_DIR$/archives/2017/02/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="719" column="0" lean-forward="false" selection-start-line="719" selection-start-column="0" selection-end-line="719" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#3;n#article#0;n#div#0;n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/blog/2018/08/filterchain-sql-monitor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="894" column="65" lean-forward="false" selection-start-line="894" selection-start-column="23" selection-end-line="894" selection-end-column="65" />
-          <folding>
-            <element signature="n#style#0;n#a#1;n#div#2;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="137">
+          <caret line="617" column="28" lean-forward="false" selection-start-line="617" selection-start-column="28" selection-end-line="617" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="364" column="8" lean-forward="true" selection-start-line="364" selection-start-column="8" selection-end-line="364" selection-end-column="8" />
+        <state relative-caret-position="501">
+          <caret line="499" column="10" lean-forward="true" selection-start-line="499" selection-start-column="10" selection-end-line="499" selection-end-column="10" />
           <folding />
         </state>
       </provider>
