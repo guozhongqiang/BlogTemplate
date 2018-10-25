@@ -1,298 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26899c8d-d217-4932-bb21-a004511371e6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about/index.html" afterPath="$PROJECT_DIR$/about/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/06/index.html" afterPath="$PROJECT_DIR$/archives/2014/06/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/07/index.html" afterPath="$PROJECT_DIR$/archives/2014/07/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/08/index.html" afterPath="$PROJECT_DIR$/archives/2014/08/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/09/index.html" afterPath="$PROJECT_DIR$/archives/2014/09/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/10/index.html" afterPath="$PROJECT_DIR$/archives/2014/10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/11/index.html" afterPath="$PROJECT_DIR$/archives/2014/11/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/12/index.html" afterPath="$PROJECT_DIR$/archives/2014/12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/index.html" afterPath="$PROJECT_DIR$/archives/2014/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2014/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2014/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2014/page/4/index.html" afterPath="$PROJECT_DIR$/archives/2014/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/02/index.html" afterPath="$PROJECT_DIR$/archives/2015/02/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/03/index.html" afterPath="$PROJECT_DIR$/archives/2015/03/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/04/index.html" afterPath="$PROJECT_DIR$/archives/2015/04/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/05/index.html" afterPath="$PROJECT_DIR$/archives/2015/05/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/06/index.html" afterPath="$PROJECT_DIR$/archives/2015/06/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/07/index.html" afterPath="$PROJECT_DIR$/archives/2015/07/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/08/index.html" afterPath="$PROJECT_DIR$/archives/2015/08/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/09/index.html" afterPath="$PROJECT_DIR$/archives/2015/09/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/index.html" afterPath="$PROJECT_DIR$/archives/2015/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2015/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2015/page/3/index.html" afterPath="$PROJECT_DIR$/archives/2015/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/01/index.html" afterPath="$PROJECT_DIR$/archives/2016/01/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/02/index.html" afterPath="$PROJECT_DIR$/archives/2016/02/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/03/index.html" afterPath="$PROJECT_DIR$/archives/2016/03/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/06/index.html" afterPath="$PROJECT_DIR$/archives/2016/06/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/08/index.html" afterPath="$PROJECT_DIR$/archives/2016/08/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2016/index.html" afterPath="$PROJECT_DIR$/archives/2016/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/02/index.html" afterPath="$PROJECT_DIR$/archives/2017/02/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/03/index.html" afterPath="$PROJECT_DIR$/archives/2017/03/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/08/index.html" afterPath="$PROJECT_DIR$/archives/2017/08/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/09/index.html" afterPath="$PROJECT_DIR$/archives/2017/09/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/10/index.html" afterPath="$PROJECT_DIR$/archives/2017/10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/11/index.html" afterPath="$PROJECT_DIR$/archives/2017/11/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/12/index.html" afterPath="$PROJECT_DIR$/archives/2017/12/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/index.html" afterPath="$PROJECT_DIR$/archives/2017/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2017/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2017/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/01/index.html" afterPath="$PROJECT_DIR$/archives/2018/01/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/02/index.html" afterPath="$PROJECT_DIR$/archives/2018/02/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/04/index.html" afterPath="$PROJECT_DIR$/archives/2018/04/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/08/index.html" afterPath="$PROJECT_DIR$/archives/2018/08/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/index.html" afterPath="$PROJECT_DIR$/archives/2018/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/2018/page/2/index.html" afterPath="$PROJECT_DIR$/archives/2018/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/index.html" afterPath="$PROJECT_DIR$/archives/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/10/index.html" afterPath="$PROJECT_DIR$/archives/page/10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/2/index.html" afterPath="$PROJECT_DIR$/archives/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/3/index.html" afterPath="$PROJECT_DIR$/archives/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/4/index.html" afterPath="$PROJECT_DIR$/archives/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/5/index.html" afterPath="$PROJECT_DIR$/archives/page/5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/6/index.html" afterPath="$PROJECT_DIR$/archives/page/6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/7/index.html" afterPath="$PROJECT_DIR$/archives/page/7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/8/index.html" afterPath="$PROJECT_DIR$/archives/page/8/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/archives/page/9/index.html" afterPath="$PROJECT_DIR$/archives/page/9/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html" afterPath="$PROJECT_DIR$/blog/2014/06/26-methods-to-improve-java-performance.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/06/blog/2014/06/15/in-the-rain.html.html" afterPath="$PROJECT_DIR$/blog/2014/06/blog/2014/06/15/in-the-rain.html.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/android-UI-Thread.html" afterPath="$PROJECT_DIR$/blog/2014/07/android-UI-Thread.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/android-networkOnMainThreadException.html" afterPath="$PROJECT_DIR$/blog/2014/07/android-networkOnMainThreadException.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/c-advaced-programming.html" afterPath="$PROJECT_DIR$/blog/2014/07/c-advaced-programming.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/markdown-basics.html" afterPath="$PROJECT_DIR$/blog/2014/07/markdown-basics.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/markdown-syntax.html" afterPath="$PROJECT_DIR$/blog/2014/07/markdown-syntax.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/qualified-programmer-should-read-what-books.html" afterPath="$PROJECT_DIR$/blog/2014/07/qualified-programmer-should-read-what-books.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/07/use-jekyll-build-blog-on-github.html" afterPath="$PROJECT_DIR$/blog/2014/07/use-jekyll-build-blog-on-github.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/78-golden-rules-of-the-java-programming.html" afterPath="$PROJECT_DIR$/blog/2014/08/78-golden-rules-of-the-java-programming.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/java-multithread.html" afterPath="$PROJECT_DIR$/blog/2014/08/java-multithread.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/libevent.html" afterPath="$PROJECT_DIR$/blog/2014/08/libevent.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/linux-epoll.html" afterPath="$PROJECT_DIR$/blog/2014/08/linux-epoll.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/08/why-jdk-string-is-final.html" afterPath="$PROJECT_DIR$/blog/2014/08/why-jdk-string-is-final.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/09/returning-null.html" afterPath="$PROJECT_DIR$/blog/2014/09/returning-null.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/android-opensource.html" afterPath="$PROJECT_DIR$/blog/2014/10/android-opensource.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/androidDP-introduction.html" afterPath="$PROJECT_DIR$/blog/2014/10/androidDP-introduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/androidDP-project.html" afterPath="$PROJECT_DIR$/blog/2014/10/androidDP-project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/how to use smack.html" afterPath="$PROJECT_DIR$/blog/2014/10/how to use smack.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/how-http-works.html" afterPath="$PROJECT_DIR$/blog/2014/10/how-http-works.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/jsp-jfreechart.html" afterPath="$PROJECT_DIR$/blog/2014/10/jsp-jfreechart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/xmpp-analise.html" afterPath="$PROJECT_DIR$/blog/2014/10/xmpp-analise.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/10/xmpp.html" afterPath="$PROJECT_DIR$/blog/2014/10/xmpp.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/android-push.html" afterPath="$PROJECT_DIR$/blog/2014/11/android-push.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/graph.html" afterPath="$PROJECT_DIR$/blog/2014/11/graph.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/how-to-evaluate-the-hackers-and-painters.html" afterPath="$PROJECT_DIR$/blog/2014/11/how-to-evaluate-the-hackers-and-painters.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/java-concurrent-collections.html" afterPath="$PROJECT_DIR$/blog/2014/11/java-concurrent-collections.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/java-inner-class.html" afterPath="$PROJECT_DIR$/blog/2014/11/java-inner-class.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/java-nio.html" afterPath="$PROJECT_DIR$/blog/2014/11/java-nio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/leveldb.html" afterPath="$PROJECT_DIR$/blog/2014/11/leveldb.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/11/web-server.html" afterPath="$PROJECT_DIR$/blog/2014/11/web-server.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/c-code-opt.html" afterPath="$PROJECT_DIR$/blog/2014/12/c-code-opt.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/c-open-project.html" afterPath="$PROJECT_DIR$/blog/2014/12/c-open-project.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/improve-webServer-performance.html" afterPath="$PROJECT_DIR$/blog/2014/12/improve-webServer-performance.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2014/12/skip-list.html" afterPath="$PROJECT_DIR$/blog/2014/12/skip-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/02/cache.html" afterPath="$PROJECT_DIR$/blog/2015/02/cache.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/android-studio-prefrence.html" afterPath="$PROJECT_DIR$/blog/2015/03/android-studio-prefrence.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/github-pages-blog.html" afterPath="$PROJECT_DIR$/blog/2015/03/github-pages-blog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/install-texlive-in-ubuntu.html" afterPath="$PROJECT_DIR$/blog/2015/03/install-texlive-in-ubuntu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/03/vim-plugins.html" afterPath="$PROJECT_DIR$/blog/2015/03/vim-plugins.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/android-tips.html" afterPath="$PROJECT_DIR$/blog/2015/04/android-tips.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/gradle-task-management.html" afterPath="$PROJECT_DIR$/blog/2015/04/gradle-task-management.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/java-code-opt-one.html" afterPath="$PROJECT_DIR$/blog/2015/04/java-code-opt-one.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/java-virtual-mechine.html" afterPath="$PROJECT_DIR$/blog/2015/04/java-virtual-mechine.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/04/web-transmission-basis.html" afterPath="$PROJECT_DIR$/blog/2015/04/web-transmission-basis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/05/android-links.html" afterPath="$PROJECT_DIR$/blog/2015/05/android-links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/05/define-custom-view.html" afterPath="$PROJECT_DIR$/blog/2015/05/define-custom-view.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/05/gradle-dependency-management.html" afterPath="$PROJECT_DIR$/blog/2015/05/gradle-dependency-management.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/06/java-lambda-expression.html" afterPath="$PROJECT_DIR$/blog/2015/06/java-lambda-expression.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/07/gradle-tasks-guide.html" afterPath="$PROJECT_DIR$/blog/2015/07/gradle-tasks-guide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/07/hibernate-cache-guide.html" afterPath="$PROJECT_DIR$/blog/2015/07/hibernate-cache-guide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/dagger-dependency-injection.html" afterPath="$PROJECT_DIR$/blog/2015/08/dagger-dependency-injection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/latex-fonts-settings.html" afterPath="$PROJECT_DIR$/blog/2015/08/latex-fonts-settings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/linux-zsh.html" afterPath="$PROJECT_DIR$/blog/2015/08/linux-zsh.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/08/volley-source-code.html" afterPath="$PROJECT_DIR$/blog/2015/08/volley-source-code.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2015/09/android-studio-plugins.html" afterPath="$PROJECT_DIR$/blog/2015/09/android-studio-plugins.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/01/apache-configuration-in-ubuntu.html" afterPath="$PROJECT_DIR$/blog/2016/01/apache-configuration-in-ubuntu.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/01/tmux-guide.html" afterPath="$PROJECT_DIR$/blog/2016/01/tmux-guide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/02/baidu-spider-forbidden.html" afterPath="$PROJECT_DIR$/blog/2016/02/baidu-spider-forbidden.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/02/git-guide.html" afterPath="$PROJECT_DIR$/blog/2016/02/git-guide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/02/jekyll-to-hexo.html" afterPath="$PROJECT_DIR$/blog/2016/02/jekyll-to-hexo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/03/android-apk-classy.html" afterPath="$PROJECT_DIR$/blog/2016/03/android-apk-classy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/03/android-apk-signing.html" afterPath="$PROJECT_DIR$/blog/2016/03/android-apk-signing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/06/Jacoco-coverage.html" afterPath="$PROJECT_DIR$/blog/2016/06/Jacoco-coverage.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/06/java-nio-concept.html" afterPath="$PROJECT_DIR$/blog/2016/06/java-nio-concept.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2016/08/maven-lifecycle-introduction.html" afterPath="$PROJECT_DIR$/blog/2016/08/maven-lifecycle-introduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/hexo-search.html" afterPath="$PROJECT_DIR$/blog/2017/02/hexo-search.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/mybatis-intorduction.html" afterPath="$PROJECT_DIR$/blog/2017/02/mybatis-intorduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/sed-introduction.html" afterPath="$PROJECT_DIR$/blog/2017/02/sed-introduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/02/ss-proxy-guide.html" afterPath="$PROJECT_DIR$/blog/2017/02/ss-proxy-guide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/03/elasticsearch-java-client.html" afterPath="$PROJECT_DIR$/blog/2017/03/elasticsearch-java-client.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/08/mybatis-cache.html" afterPath="$PROJECT_DIR$/blog/2017/08/mybatis-cache.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/08/powermock-introduction.html" afterPath="$PROJECT_DIR$/blog/2017/08/powermock-introduction.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/09/mybatis-multidatasource.html" afterPath="$PROJECT_DIR$/blog/2017/09/mybatis-multidatasource.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/10/spring-transation-sourcecode.html" afterPath="$PROJECT_DIR$/blog/2017/10/spring-transation-sourcecode.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/10/why-not-expliclitgc.html" afterPath="$PROJECT_DIR$/blog/2017/10/why-not-expliclitgc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/11/java-classloader-constraint.html" afterPath="$PROJECT_DIR$/blog/2017/11/java-classloader-constraint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/11/java-weak-reference.html" afterPath="$PROJECT_DIR$/blog/2017/11/java-weak-reference.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/12/btrace-guide.html" afterPath="$PROJECT_DIR$/blog/2017/12/btrace-guide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/12/java-memory-leak-example.html" afterPath="$PROJECT_DIR$/blog/2017/12/java-memory-leak-example.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2017/12/threadlocal.html" afterPath="$PROJECT_DIR$/blog/2017/12/threadlocal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/btrace-introduce.html" afterPath="$PROJECT_DIR$/blog/2018/01/btrace-introduce.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/gatling.html" afterPath="$PROJECT_DIR$/blog/2018/01/gatling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/jmh-test-guide.html" afterPath="$PROJECT_DIR$/blog/2018/01/jmh-test-guide.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/jvm-card-table-turning.html" afterPath="$PROJECT_DIR$/blog/2018/01/jvm-card-table-turning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/linux-high-load.html" afterPath="$PROJECT_DIR$/blog/2018/01/linux-high-load.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/linux-perf-turning.html" afterPath="$PROJECT_DIR$/blog/2018/01/linux-perf-turning.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/next-chat.html" afterPath="$PROJECT_DIR$/blog/2018/01/next-chat.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/safepoint.html" afterPath="$PROJECT_DIR$/blog/2018/01/safepoint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/slf4j-log4j2.html" afterPath="$PROJECT_DIR$/blog/2018/01/slf4j-log4j2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/01/understand-gc-log.html" afterPath="$PROJECT_DIR$/blog/2018/01/understand-gc-log.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/02/the-missing-stacktrace.html" afterPath="$PROJECT_DIR$/blog/2018/02/the-missing-stacktrace.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/04/elasticsearch-translog.html" afterPath="$PROJECT_DIR$/blog/2018/04/elasticsearch-translog.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/04/final-reference.html" afterPath="$PROJECT_DIR$/blog/2018/04/final-reference.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/04/mysql-settings.html" afterPath="$PROJECT_DIR$/blog/2018/04/mysql-settings.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/08/filterchain-sql-monitor.html" afterPath="$PROJECT_DIR$/blog/2018/08/filterchain-sql-monitor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/blog/2018/08/mysql-tips.html" afterPath="$PROJECT_DIR$/blog/2018/08/mysql-tips.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/books/index.html" afterPath="$PROJECT_DIR$/books/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Android/index.html" afterPath="$PROJECT_DIR$/categories/Android/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Database/index.html" afterPath="$PROJECT_DIR$/categories/Database/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Git/index.html" afterPath="$PROJECT_DIR$/categories/Git/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Gradle/index.html" afterPath="$PROJECT_DIR$/categories/Gradle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/JVM/index.html" afterPath="$PROJECT_DIR$/categories/JVM/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Latex/index.html" afterPath="$PROJECT_DIR$/categories/Latex/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Linux/index.html" afterPath="$PROJECT_DIR$/categories/Linux/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/MySQL/index.html" afterPath="$PROJECT_DIR$/categories/MySQL/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/Unix-Linux/index.html" afterPath="$PROJECT_DIR$/categories/Unix-Linux/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/algorithm/index.html" afterPath="$PROJECT_DIR$/categories/algorithm/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/book/index.html" afterPath="$PROJECT_DIR$/categories/book/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/c-c/index.html" afterPath="$PROJECT_DIR$/categories/c-c/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/c/index.html" afterPath="$PROJECT_DIR$/categories/c/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/c/programming/index.html" afterPath="$PROJECT_DIR$/categories/c/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/google/index.html" afterPath="$PROJECT_DIR$/categories/google/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/hexo/index.html" afterPath="$PROJECT_DIR$/categories/hexo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/index.html" afterPath="$PROJECT_DIR$/categories/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/android/index.html" afterPath="$PROJECT_DIR$/categories/java/android/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/index.html" afterPath="$PROJECT_DIR$/categories/java/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/lambda/index.html" afterPath="$PROJECT_DIR$/categories/java/lambda/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/page/2/index.html" afterPath="$PROJECT_DIR$/categories/java/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/page/3/index.html" afterPath="$PROJECT_DIR$/categories/java/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/java/reprints/index.html" afterPath="$PROJECT_DIR$/categories/java/reprints/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/jekyll/index.html" afterPath="$PROJECT_DIR$/categories/jekyll/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/jekyll/reprints/index.html" afterPath="$PROJECT_DIR$/categories/jekyll/reprints/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/other/index.html" afterPath="$PROJECT_DIR$/categories/other/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/other/programming/index.html" afterPath="$PROJECT_DIR$/categories/other/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/other/programming/reprints/index.html" afterPath="$PROJECT_DIR$/categories/other/programming/reprints/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/categories/web/index.html" afterPath="$PROJECT_DIR$/categories/web/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/10/index.html" afterPath="$PROJECT_DIR$/page/10/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/2/index.html" afterPath="$PROJECT_DIR$/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/3/index.html" afterPath="$PROJECT_DIR$/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/4/index.html" afterPath="$PROJECT_DIR$/page/4/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/5/index.html" afterPath="$PROJECT_DIR$/page/5/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/6/index.html" afterPath="$PROJECT_DIR$/page/6/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/7/index.html" afterPath="$PROJECT_DIR$/page/7/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/8/index.html" afterPath="$PROJECT_DIR$/page/8/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/9/index.html" afterPath="$PROJECT_DIR$/page/9/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/APK/index.html" afterPath="$PROJECT_DIR$/tags/APK/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Chat/index.html" afterPath="$PROJECT_DIR$/tags/Chat/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/ClassLoader/index.html" afterPath="$PROJECT_DIR$/tags/ClassLoader/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Dao/index.html" afterPath="$PROJECT_DIR$/tags/Dao/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/DataBase/index.html" afterPath="$PROJECT_DIR$/tags/DataBase/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Elasticsearch/index.html" afterPath="$PROJECT_DIR$/tags/Elasticsearch/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/FilterChain/index.html" afterPath="$PROJECT_DIR$/tags/FilterChain/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Gatling/index.html" afterPath="$PROJECT_DIR$/tags/Gatling/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Git/index.html" afterPath="$PROJECT_DIR$/tags/Git/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Gradle/index.html" afterPath="$PROJECT_DIR$/tags/Gradle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/IO/index.html" afterPath="$PROJECT_DIR$/tags/IO/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Instrumention/index.html" afterPath="$PROJECT_DIR$/tags/Instrumention/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/JMH/index.html" afterPath="$PROJECT_DIR$/tags/JMH/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Junit/index.html" afterPath="$PROJECT_DIR$/tags/Junit/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Jvm/index.html" afterPath="$PROJECT_DIR$/tags/Jvm/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Latex/index.html" afterPath="$PROJECT_DIR$/tags/Latex/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Life/index.html" afterPath="$PROJECT_DIR$/tags/Life/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Logger/index.html" afterPath="$PROJECT_DIR$/tags/Logger/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Mock/index.html" afterPath="$PROJECT_DIR$/tags/Mock/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/MyBatis/index.html" afterPath="$PROJECT_DIR$/tags/MyBatis/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/MySQL/index.html" afterPath="$PROJECT_DIR$/tags/MySQL/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/NIO/index.html" afterPath="$PROJECT_DIR$/tags/NIO/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/ORM/index.html" afterPath="$PROJECT_DIR$/tags/ORM/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/OpenSource/index.html" afterPath="$PROJECT_DIR$/tags/OpenSource/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/PowerMock/index.html" afterPath="$PROJECT_DIR$/tags/PowerMock/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/SED/index.html" afterPath="$PROJECT_DIR$/tags/SED/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Spring/index.html" afterPath="$PROJECT_DIR$/tags/Spring/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Transaction/index.html" afterPath="$PROJECT_DIR$/tags/Transaction/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/VCS/index.html" afterPath="$PROJECT_DIR$/tags/VCS/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/Vim/index.html" afterPath="$PROJECT_DIR$/tags/Vim/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/WeakReference/index.html" afterPath="$PROJECT_DIR$/tags/WeakReference/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/algorithm/index.html" afterPath="$PROJECT_DIR$/tags/algorithm/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/android-tips/index.html" afterPath="$PROJECT_DIR$/tags/android-tips/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/android-view/index.html" afterPath="$PROJECT_DIR$/tags/android-view/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/android/index.html" afterPath="$PROJECT_DIR$/tags/android/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/blog/index.html" afterPath="$PROJECT_DIR$/tags/blog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/book/index.html" afterPath="$PROJECT_DIR$/tags/book/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/c/index.html" afterPath="$PROJECT_DIR$/tags/c/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/cache/index.html" afterPath="$PROJECT_DIR$/tags/cache/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/concurrent/index.html" afterPath="$PROJECT_DIR$/tags/concurrent/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/dns/index.html" afterPath="$PROJECT_DIR$/tags/dns/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/final/index.html" afterPath="$PROJECT_DIR$/tags/final/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/github/index.html" afterPath="$PROJECT_DIR$/tags/github/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/google/index.html" afterPath="$PROJECT_DIR$/tags/google/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/hexo/index.html" afterPath="$PROJECT_DIR$/tags/hexo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/hibernate/index.html" afterPath="$PROJECT_DIR$/tags/hibernate/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/hosts/index.html" afterPath="$PROJECT_DIR$/tags/hosts/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/http/index.html" afterPath="$PROJECT_DIR$/tags/http/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/index.html" afterPath="$PROJECT_DIR$/tags/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/jabber/index.html" afterPath="$PROJECT_DIR$/tags/jabber/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java-gradle/index.html" afterPath="$PROJECT_DIR$/tags/java-gradle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java/index.html" afterPath="$PROJECT_DIR$/tags/java/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java/page/2/index.html" afterPath="$PROJECT_DIR$/tags/java/page/2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/java/page/3/index.html" afterPath="$PROJECT_DIR$/tags/java/page/3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/javas/index.html" afterPath="$PROJECT_DIR$/tags/javas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/jekyll/index.html" afterPath="$PROJECT_DIR$/tags/jekyll/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/jsp，servlet，html，jfreechart/index.html" afterPath="$PROJECT_DIR$/tags/jsp，servlet，html，jfreechart/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/lifecycle/index.html" afterPath="$PROJECT_DIR$/tags/lifecycle/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/linux/index.html" afterPath="$PROJECT_DIR$/tags/linux/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/markdown/index.html" afterPath="$PROJECT_DIR$/tags/markdown/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/maven/index.html" afterPath="$PROJECT_DIR$/tags/maven/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/network-异步-Volley-android/index.html" afterPath="$PROJECT_DIR$/tags/network-异步-Volley-android/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/openfire/index.html" afterPath="$PROJECT_DIR$/tags/openfire/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/plugins/index.html" afterPath="$PROJECT_DIR$/tags/plugins/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/programming/index.html" afterPath="$PROJECT_DIR$/tags/programming/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/shell/index.html" afterPath="$PROJECT_DIR$/tags/shell/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/studio/index.html" afterPath="$PROJECT_DIR$/tags/studio/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/translog/index.html" afterPath="$PROJECT_DIR$/tags/translog/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/web/index.html" afterPath="$PROJECT_DIR$/tags/web/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/xmpp/index.html" afterPath="$PROJECT_DIR$/tags/xmpp/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/书籍/index.html" afterPath="$PROJECT_DIR$/tags/书籍/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/单元测试/index.html" afterPath="$PROJECT_DIR$/tags/单元测试/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/反编译/index.html" afterPath="$PROJECT_DIR$/tags/反编译/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/复用/index.html" afterPath="$PROJECT_DIR$/tags/复用/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/多线程/index.html" afterPath="$PROJECT_DIR$/tags/多线程/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/学习/index.html" afterPath="$PROJECT_DIR$/tags/学习/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/并发，-服务器/index.html" afterPath="$PROJECT_DIR$/tags/并发，-服务器/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/开源/index.html" afterPath="$PROJECT_DIR$/tags/开源/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/性能/index.html" afterPath="$PROJECT_DIR$/tags/性能/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/技巧/index.html" afterPath="$PROJECT_DIR$/tags/技巧/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/接口/index.html" afterPath="$PROJECT_DIR$/tags/接口/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/数据库/index.html" afterPath="$PROJECT_DIR$/tags/数据库/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/服务器/index.html" afterPath="$PROJECT_DIR$/tags/服务器/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/框架/index.html" afterPath="$PROJECT_DIR$/tags/框架/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/消息推送/index.html" afterPath="$PROJECT_DIR$/tags/消息推送/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/消息推送，-server，-client/index.html" afterPath="$PROJECT_DIR$/tags/消息推送，-server，-client/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/生活/index.html" afterPath="$PROJECT_DIR$/tags/生活/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/程序/index.html" afterPath="$PROJECT_DIR$/tags/程序/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/签名/index.html" afterPath="$PROJECT_DIR$/tags/签名/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/继承/index.html" afterPath="$PROJECT_DIR$/tags/继承/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/编程/index.html" afterPath="$PROJECT_DIR$/tags/编程/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/编程语言/index.html" afterPath="$PROJECT_DIR$/tags/编程语言/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/网络传输/index.html" afterPath="$PROJECT_DIR$/tags/网络传输/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/虚拟机/index.html" afterPath="$PROJECT_DIR$/tags/虚拟机/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/覆盖率/index.html" afterPath="$PROJECT_DIR$/tags/覆盖率/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/逆向/index.html" afterPath="$PROJECT_DIR$/tags/逆向/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/阻塞/index.html" afterPath="$PROJECT_DIR$/tags/阻塞/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tags/项目构建/index.html" afterPath="$PROJECT_DIR$/tags/项目构建/index.html" />
-    </list>
+    <list default="true" id="26899c8d-d217-4932-bb21-a004511371e6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -389,8 +98,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="499" column="10" lean-forward="true" selection-start-line="499" selection-start-column="10" selection-end-line="499" selection-end-column="10" />
+            <state relative-caret-position="567">
+              <caret line="445" column="5" lean-forward="true" selection-start-line="445" selection-start-column="5" selection-end-line="445" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -475,8 +184,8 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1358" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1096" />
+    <option name="width" value="1378" />
+    <option name="height" value="740" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -794,7 +503,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538298175894</updated>
-      <workItem from="1538298178050" duration="5460000" />
+      <workItem from="1538298178050" duration="5541000" />
     </task>
     <task id="LOCAL-00001" summary="change">
       <created>1538299641858</created>
@@ -838,15 +547,22 @@
       <option name="project" value="LOCAL" />
       <updated>1538302915451</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="change">
+      <created>1538304473858</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1538304473858</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5460000" />
+    <option name="totallyTimeSpent" value="5541000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <frame x="1358" y="-8" width="1378" height="740" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -872,11 +588,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Code Review" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="17" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3561644" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3291536" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -1177,8 +893,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="499" column="10" lean-forward="true" selection-start-line="499" selection-start-column="10" selection-end-line="499" selection-end-column="10" />
+        <state relative-caret-position="567">
+          <caret line="445" column="5" lean-forward="true" selection-start-line="445" selection-start-column="5" selection-end-line="445" selection-end-column="5" />
           <folding />
         </state>
       </provider>
